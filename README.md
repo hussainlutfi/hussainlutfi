@@ -11,7 +11,7 @@ Software Engineering Student | Flutter
 
 --------------------------------------
 
-## Skills
+# Skills
 
 
 <p align="left">
