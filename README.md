@@ -6,7 +6,6 @@ Software Engineering Student | Flutter
 
 * 👀 I’m interested in App Development
 * 🌱 I’m currently learning Flutter Framwork
-* 📫 Email: hussainlutfi@hotmail.com
 * ✉️  You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
 
 --------------------------------------
