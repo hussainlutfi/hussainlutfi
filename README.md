@@ -1,7 +1,7 @@
 Hi 👋 My name is Hussain AlZayer
 ================================
 
-Software Engineering Student | Flutter
+Software Engineering Student @KFUPM | Flutter Developer
 --------------------------------------
 
 * 👀 I’m interested in App Development
