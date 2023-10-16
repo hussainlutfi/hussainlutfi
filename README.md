@@ -13,7 +13,7 @@ Software Engineering Student | Flutter
 ## Skills
 
 <p align="left">
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
     </a>
 
