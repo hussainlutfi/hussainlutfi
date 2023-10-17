@@ -11,7 +11,9 @@ Software Engineering Student | Flutter
 --------------------------------------
 
 ## Skills
-
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
 <p align="left">
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
