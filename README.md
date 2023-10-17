@@ -1,7 +1,7 @@
 Hi 👋 My name is Hussain AlZayer
 ================================
 
-<div flex-direction= "">
+<div >
     <div>
 Software Engineering Student | Flutter
 --------------------------------------
