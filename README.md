@@ -12,21 +12,22 @@ Software Engineering Student | Flutter
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
-<div style="float:left; width:60%;">
+<table border="0">
+<tr>
+<td border="0">
 
 * 👀 I’m interested in App Development
 * 🌱 I’m currently learning Flutter Framework
 * ✉️ You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
 
-</div>
-
-<div style="float:right; width:40%;">
+</td>
+<td border="0">
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-</div>
-
-<div style="clear:both;"></div>
+</td>
+</tr>
+</table>
 
 --------------------------------------
 
