@@ -12,6 +12,25 @@ Software Engineering Student | Flutter
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
+<table>
+<tr>
+<td>
+
+Software Engineering Student | Flutter
+--------------------------------------
+* 👀 I’m interested in App Development
+* 🌱 I’m currently learning Flutter Framework
+* ✉️  You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
+
+</td>
+<td>
+
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
+</td>
+</tr>
+</table>
+
 --------------------------------------
 
 ## Skills
