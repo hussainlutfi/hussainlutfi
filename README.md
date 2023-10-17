@@ -4,11 +4,9 @@ Hi 👋 My name is Hussain AlZayer
 Software Engineering Student | Flutter
 --------------------------------------
 <div>
-    <div>
 * 👀 I’m interested in App Development
 * 🌱 I’m currently learning Flutter Framwork
 * ✉️  You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
-    </div>
     <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
