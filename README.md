@@ -1,33 +1,18 @@
 Hi 👋 My name is Hussain AlZayer
 ================================
 
-
+<div flex-direction= "">
+    <div>
 Software Engineering Student | Flutter
 --------------------------------------
 * 👀 I’m interested in App Development
 * 🌱 I’m currently learning Flutter Framwork
 * ✉️  You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
-
+</div>
 <br >
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
-
-<table border="0">
-<tr>
-<td border="0">
-
-* 👀 I’m interested in App Development
-* 🌱 I’m currently learning Flutter Framework
-* ✉️ You can contact me at [hussainlutfi@hotmail.com](mailto:hussainlutfi@hotmail.com)
-
-</td>
-<td border="0">
-
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
-</td>
-</tr>
-</table>
+</div>
 
 --------------------------------------
 
