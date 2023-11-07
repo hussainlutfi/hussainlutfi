@@ -1,7 +1,7 @@
 Hi 👋 My name is Hussain AlZayer
 ================================
 
-<img align="right" width="100px" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 Software Engineering Student | Flutter
 --------------------------------------
@@ -12,7 +12,7 @@ Software Engineering Student | Flutter
 
 
 
-
+<br/>
 --------------------------------------
 
 ## Skills
