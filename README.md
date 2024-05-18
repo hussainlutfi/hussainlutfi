@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Software Engineering student @KFUPM <br>🌐 Crafting mobile application solutions with Flutter <br>⚡ Fun fact I am Public Speaker<br>🚀 Keen on innovation and eager to contribute to a team's success in the tech industry.<br>📧 Reach out for collaborations: hussainlutfi@hotmail.com<br>
+🔭 I’m currently a Software Engineering student @KFUPM <br>🌐 Crafting mobile application solutions <br>⚡ Fun fact I am Public Speaker<br>🚀 Keen on innovation and eager to contribute to a team's success in the tech industry.<br>📧 Reach out for collaborations: hussainlutfi@hotmail.com<br>
 
 
 ## 🌐 Socials:
